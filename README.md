@@ -3,7 +3,7 @@
 # template-diw-20251-semana-02
 
 ## Informações Gerais
-- Nome: Ronaldo Coleho Junior
+- Nome: Ronaldo Coelho Junior
 - Matricula: 898895
 
 ## Print da tela da página criada (Curriculum Vitae)
