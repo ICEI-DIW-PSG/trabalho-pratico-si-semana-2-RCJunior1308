@@ -9,3 +9,4 @@
 ## Print da tela da página criada (Curriculum Vitae)
 
 `<Coloque aqui o print da tela de inspeção do seu navegador>`
+![tela de Inspeção](public/inspecao.jpg)
